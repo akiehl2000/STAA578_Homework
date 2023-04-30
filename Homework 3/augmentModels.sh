@@ -6,7 +6,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --job-name adam_test_augmented_model
-#SBATCH --time 01:00:00
+#SBATCH --time 10:00:00
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=akiehl@colostate.edu
 
