@@ -133,3 +133,7 @@ dmypy.json
 
 # model states
 ModelStates
+
+# cifar 10 data
+Homework3/cifar-10-batches-py
+Homework3/cifar-10-python.tar.gz
